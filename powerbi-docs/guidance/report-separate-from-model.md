@@ -39,7 +39,7 @@ Data modelers can still use the Power BI Desktop report authoring experience to 
 
 ### Preserve the model interface
 
-Sometimes, model changes are inevitable. Data modelers must take care, then, not the break the model interface. If they do, it's possible that related report visuals or dashboard tiles will break. Broken visuals appear as errors, and they can result in frustration for report authors and consumers. And worse—they can reduce trust in the data.
+Sometimes, model changes are inevitable. Data modelers must take care, then, not to break the model interface. If they do, it's possible that related report visuals or dashboard tiles will break. Broken visuals appear as errors, and they can result in frustration for report authors and consumers. And worse—they can reduce trust in the data.
 
 So, manage model changes carefully. If possible, avoid the following changes:
 
